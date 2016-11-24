@@ -1,0 +1,6 @@
+[package]
+name = "cg_generic_traits"
+version = "0.1.0"
+authors = ["Marcos Cosmos <m.cosmos42@gmail.com>"]
+
+[dependencies]
